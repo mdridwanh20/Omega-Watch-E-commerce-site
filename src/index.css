@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Fugaz+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+@import "tailwindcss";
+@plugin "daisyui";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--primaryFont);
+  overflow-x: hidden;
+}
+
+:root {
+  --swiper-navigation-size: 21px !important;
+}
+
+:root {
+  --primaryColor: #087b8a;
+  --bodyColor: #ecf0f3;
+
+  /* Full light color */
+  --lightColor: #ffffff;
+
+  /* Full deep color */
+  --deepColor: #000000;
+
+  /* opacity color from deep Color */
+  --secondDeepColor: #3b3b3b;
+
+  /* text paragraph color */
+  --paraColor: #1a1919;
+
+  --borderColor: #f05b163f;
+
+  /* card body color */
+  --cardBodyColor: #f7f8f7;
+
+  /* card body color lighter */
+  --cardLightBodyColor: #020202;
+
+  /* font here */
+  --primaryFont: "Open Sans", sans-serif;
+  --secondFont: "Fugaz One", sans-serif;
+}
+
+/* card great shadow color */
+/* .shadow-white-3 {
+  box-shadow: 5px 5px #eaebec, -4px -4px 7px #fcfcfc;
+}
+
+.gradient-box {
+  background: linear-gradient(145deg, #d7e2eb, #ffffff);
+}
+
+.gradient-red-hover:hover {
+  background: linear-gradient(145deg, #d6d2d2, #ff0000);
+} */

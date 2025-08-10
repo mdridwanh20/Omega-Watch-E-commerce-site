@@ -1,0 +1,28 @@
+[
+
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/F4zNSLys/victor-freitas-Wv-DYd-XDzkhs-unsplash-50-1-50-1.webp",
+    "title": "Build Your Best Body",
+    "description": "Join our expert-led fitness programs designed for men to gain strength, burn fat, and transform your lifestyle. Whether you're a beginner or a pro, we've got you covered.",
+    "buttonText": "Get Started Today"
+  },
+
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/0jqHHq5j/omid-armin-r-Ah9r-A53-UWk-unsplash-50.webp",
+    "title": "Train Like a Champion",
+    "description": "Level up your workouts with high-intensity routines and personalized coaching. Push your limits and achieve real results with our proven system.",
+    "buttonText": "Start Training"
+  },
+
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/cXbhGmv0/harsh-jangra-Xix-BSI85g-E-unsplash-50.webp",
+    "title": "Redefine Your Limits",
+    "description": "Your journey to strength and confidence starts here. Access tailored workouts, nutrition plans, and community support — all in one place.",
+    "buttonText": "Join Now"
+  }
+
+]
+
