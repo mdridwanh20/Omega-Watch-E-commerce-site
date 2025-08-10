@@ -1,12 +1,34 @@
-# React + Vite
+# Omega Watch - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Omega Watch** landing page repository!  
+This project is a modern, responsive landing page website for Omega Watch, showcasing timeless elegance and craftsmanship.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## Expanding the ESLint configuration
+Omega Watch is a luxury timepiece brand known for precision, craftsmanship, and style.  
+This landing page highlights featured products, customer testimonials, company history, FAQs, and a contact form for customer inquiries.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshot
+
+![Omega Watch Landing Page](./77f0f540-2714-4343-b443-86cd94e3a1bc.png)
+
+---
+
+## 🛠️ Features
+
+- Responsive design for all screen sizes  
+- Product showcase with Add to Cart and Buy Now buttons  
+- About section highlighting brand history and values  
+- Customer testimonials slider  
+- Frequently Asked Questions (FAQ) accordion  
+- Contact form for customer messages  
+- Footer with subscription and navigation links  
+
+---
+
+## 📂 Project Structure
+
